@@ -20,6 +20,7 @@ def get_person():
 info = get_person()
 print(info)
 
+
 # s2 = set([1,2,3,4,5])
 s1 = {1,2,3,4,5}
 s2 = {4,5,6,7,8}
